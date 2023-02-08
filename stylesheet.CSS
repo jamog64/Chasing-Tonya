@@ -1,0 +1,54 @@
+#myVideo {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            min-height: 100%;
+            z-index: -2;
+          }
+          .insta{
+            z-index: -1;
+
+          }
+          .logo {
+            position: fixed;
+           
+          }
+
+          .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+          }
+          
+          * {
+            box-sizing: border-box;
+          }
+          
+         
+          .img1 {
+            float: left;
+            width: 33.33%;
+            padding: 75px;
+            z-index: 2;
+          }
+          
+          .Gallery::after {
+            content: "";
+            clear: both;
+            display: table;
+            z-index: 2;
+          }
+
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
