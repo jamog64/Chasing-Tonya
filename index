@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Band Home Page! </title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+   
+<div class="insta">
+    <a href="https://www.instagram.com/chasingtonyaa/">
+        <img src="images/107-1075251_la-instagram-logo-white-png-circle.png" style="height: 50px;" width="50px">
+        </a>
+   
+
+</div>
+<video autoplay muted loop id="myVideo">
+    <source src="images/Chasing Tonya OTF.mp4" type="video/mp4">
+</video>
+ <img src="images/CTlogo.png" style="width:350px;height: 250px;"class="center">
+<div class="Gallery">
+
+    <div class = "img1">
+        <img src="images/Music.jpg"style="width:100%;height:100%;">
+    </div>
+    <div class = "img1">
+        <img src="images/Info.jpg"style="width:100%">
+    </div>
+    <div class = "img1">
+        <img src="images/Schedule.jpg"style="width:100%">
+    </div>
+</div>
+
+</body>
+</html>
